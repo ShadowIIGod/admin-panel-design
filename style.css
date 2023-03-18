@@ -1,0 +1,204 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.canvas {
+    height: 100vh;
+    width: 100%;
+    /* background-color: blueviolet; */
+    display: flex;
+    justify-content: center;
+}
+
+
+.parent_container_body {
+
+    height: 100%;
+    width: 100%;
+    /* background-color: rgb(221, 255, 0); */
+}
+
+.main_body {
+    display: flex;
+    height: 90vh;
+    width: 100%;
+    /* background-color: rgb(42, 140, 165); */
+}
+
+.left {
+    height: 100%;
+    width: 70%;
+    /* background-color: rgb(88, 255, 16); */
+}
+
+.greeting {
+    height: 40%;
+    width: 100%;
+    border-top: 5px solid #e4e4f4
+        /* background-color: rgb(178, 165, 123); */
+}
+
+.profile_picture{
+    height: 100%;
+    width: 25%;
+    /* background: red; */
+}
+
+.DP{
+    height: 50%;
+    width: 50%;
+}
+
+.posts{
+    height: 100%;
+    width: 25%;
+    /* background: green; */
+}
+
+.followers{
+    height: 100%;
+    width: 25%;
+    /* background: blue; */
+}
+
+.following{
+    height: 100%;
+    width: 25%;
+    /* background: yellow; */
+}
+
+.insights {
+    display: flex;
+    height: 60%;
+    width: 100%;
+    background-color: rgb(172, 249, 232);
+}
+
+.growth_rate {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(40, 26, 189);
+}
+
+.extra_info {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(234, 180, 250);
+}
+
+.new_followers {
+    height: 50%;
+    width: 100%;
+    background-color: rgb(184, 244, 169);
+
+}
+
+.reaches {
+    height: 50%;
+    width: 100%;
+    background-color: rgb(82, 67, 98);
+
+}
+
+
+
+.growth_rategrowth_rate {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(187, 80, 105);
+}
+
+
+.right {
+    height: 100%;
+    width: 30%;
+    background-color: rgb(250, 238, 15);
+}
+
+.task {
+    height: 40%;
+    width: 100%;
+    background-color: rgb(183, 210, 244);
+
+}
+
+.task_text {
+    height: 20%;
+    width: 100%;
+    background-color: #e4e4f4;
+
+}
+
+.task_icons {
+    height: 80%;
+    width: 100%;
+    background-color: rgb(39, 12, 70);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.post {
+    height: 50%;
+    width: 50%;
+    background-color: rgb(147, 215, 215);
+}
+
+.boost {
+    height: 50%;
+    width: 50%;
+    background-color: rgb(255, 0, 174);
+}
+
+.schedule {
+    height: 50%;
+    width: 50%;
+    background-color: rgb(82, 98, 99);
+}
+
+.stories {
+    height: 50%;
+    width: 50%;
+    background-color: rgb(255, 0, 43);
+}
+
+.account_holders {
+    height: 25%;
+    width: 100%;
+    background-color: rgb(76, 164, 132);
+
+}
+
+.account_holder_text {
+    height: 25%;
+    width: 100%;
+    background-color: #e4e4f4;
+
+}
+
+.account_holder__icons {
+    height: 75%;
+    width: 100%;
+    background-color: rgb(140, 48, 129);
+}
+
+.stats {
+    height: 35%;
+    width: 100%;
+    background-color: rgb(176, 98, 170);
+}
+
+.stats_text {
+    height: 18%;
+    width: 100%;
+    background-color: #e4e4f4;
+
+}
+
+.graph {
+    height: 82%;
+    width: 100%;
+    background-color: #e4e4f4;
+}
+
+
